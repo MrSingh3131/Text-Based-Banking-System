@@ -16,9 +16,9 @@ Tasks in the project:
 
 The certificate only certifies for java but i used both java and python along with sqlite for database.
 
-Project: Building a Text-Based Bank in Java
-Issuing Organization: Coursera
-Issue Date: April 2020
-Expiration Date: This certification does not expire
-Credential ID: ZZWHT8N3GVYW
-Credential URL: https://www.coursera.org/account/accomplishments/certificate/ZZWHT8N3GVYW
+- Project: Building a Text-Based Bank in Java
+- Issuing Organization: Coursera
+- Issue Date: April 2020
+- Expiration Date: This certification does not expire
+- Credential ID: ZZWHT8N3GVYW
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/ZZWHT8N3GVYW
